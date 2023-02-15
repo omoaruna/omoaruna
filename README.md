@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omolaylay
 - 👀 I’m interested in full stack and cybersecurity
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

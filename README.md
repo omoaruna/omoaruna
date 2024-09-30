@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omoaruana
+- 👋 Hi, I’m @omoaruna
 - 👀 I’m interested in backend development 
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on ...
